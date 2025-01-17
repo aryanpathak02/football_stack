@@ -1,6 +1,3 @@
-Here's a `README.md` file for your project, explaining the purpose, setup, and functionality of searching a match by ID:
-
----
 
 # Match Statistics Viewer
 
